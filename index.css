@@ -6,12 +6,16 @@ h2{
     font-size: 30px;
 }
 ol li a {color:#1dc4a6;
-line-height:200%;}
+line-height:200%;
+font-size: 18px;}
 p{font-weight: bold;
 font-size: 25px;}
-.end p font and style{
+.end p font and style {
     font-weight: bold;
-    font-weight: 15px;
-
-}
-footer {page-break-after: always;}
+    font-weight: 15px;}
+.img {
+    border-radius: 35%;
+    width: 7%;
+  height: auto;
+  }
+  
