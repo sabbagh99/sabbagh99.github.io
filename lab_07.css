@@ -1,0 +1,10 @@
+body {
+    background-image: url("book2.png");
+   }
+.div {
+    border: 15px solid;
+    padding: 50px solid;
+    margin: 50px solid;
+    width: 150px;
+}
+   

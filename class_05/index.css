@@ -1,0 +1,24 @@
+h1{color: gray;
+font-family: "Lucida Console", "Courier New", monospace;
+font-style: italic;
+}
+h2{
+    font-size: 30px;
+}
+ol li a {color:#1dc4a6;
+line-height:200%;
+font-size: 18px;}
+p{font-weight: bold;
+font-size: 25px;}
+.end p font and style {
+    font-weight: bold;
+    font-weight: 15px;}
+.img {
+    border-radius: 35%;
+    width: 7%;
+  height: auto;
+  float: ;
+  }
+  .color{background-color: lightsalmon;
+}
+  
